@@ -8,11 +8,9 @@ This project is an exploratory data analysis and machine learning modeling exerc
 
 3. Visualizing the data using boxplots, histograms, and pie charts to understand the distribution of features and the target variable.
 
-4. Conducting hypothesis testing using two-sample independent t-tests to check for significant differences in mean values of features across different target classes.
+4. Building a decision tree classifier model on the dataset, including steps like splitting the data into train and test sets, training the model, evaluating its accuracy, and visualizing the confusion matrix and decision tree structure.
 
-5. Building a decision tree classifier model on the dataset, including steps like splitting the data into train and test sets, training the model, evaluating its accuracy, and visualizing the confusion matrix and decision tree structure.
-
-6. Using the trained decision tree model to predict the class for a new data instance.
+5. Using the trained decision tree model to predict the class for a new data instance.
 
 The project demonstrates various data science techniques, such as data loading and preprocessing, exploratory data analysis, statistical hypothesis testing, and supervised machine learning modeling using the scikit-learn library in Python. The Iris dataset, which contains measurements of different iris flower species, is a widely-used benchmark dataset in machine learning and pattern recognition.
 
